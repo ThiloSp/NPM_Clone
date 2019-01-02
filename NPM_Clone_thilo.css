@@ -1,0 +1,228 @@
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 50px;
+  font-family: Arial;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+  font-family: Arial;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.container-nav {
+  margin: 0 20px;
+}
+
+.clearfix { 
+  clear: both;
+}
+
+h1 {
+  font-size: 45px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 40px;
+  font-weight: normal;
+}
+
+.header-box {
+  background-color: rgb(32, 101, 136);
+  font-family: Arial;
+  color: white;
+}
+
+.header-background-pic {
+  background-image: url("images/city-scape.svg");
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  position: relative;
+}
+
+header a {
+  font-family: Arial;
+  color: white;
+  text-decoration: none;
+}
+
+.logo-height {
+  height: 50px;
+}
+
+.align-search {
+  width: 100%;
+  display: flex;    
+  align-items: center;
+}
+
+.search {
+  float: left;
+  margin: 10px;
+}
+
+.search-bar {
+  width: 1410px;
+  height: 45px;
+  font-size: 20px;
+  background-color:rgb(31, 82, 111);
+  border: 1px solid grey;
+  }
+
+.position {
+  width: 33%;
+  margin: 0 80% 0 20%;
+}
+
+.header-link-btn {
+  background-color: rgb(240, 146, 51);
+  color: white;
+  font-family: Arial;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  width: 180px;
+  padding: 14px 20px 14px 20px;
+  border-radius: 20px; 
+}
+
+.box {
+  background-color: rgb(39, 53, 71);
+  color: white;
+  font-family: Arial;
+  padding: 30px 0;
+}
+
+#section1 .center {
+  width: 65%;
+  margin: 0 auto;
+  padding: auto 0;
+}
+
+#section1 .link-btn {
+  background-color: rgb(203, 56, 55);
+  color: white;
+  font-family: Arial;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  width: 180px;
+  padding: 14px 20px 14px 20px;
+  border-radius: 20px; 
+}
+
+
+#section1 .textbox {
+  float: right;
+  width: 500px;
+}
+
+#section1 a {
+  font-family: Arial;
+  color: white;
+  text-decoration: none;
+}
+
+#section1 .image-left { 
+  float: left;
+  width: 550px;
+  margin: 0 0 20px 0;
+}
+
+#section1 ul {
+  text-align: left;
+  padding: 0;
+}
+
+#section1 li {
+  margin: 20px;
+}
+
+.section2-background-pic {
+  background-image: url("images/forklift.svg");
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  padding-top: 50px;
+  position: relative;
+}
+
+#section2 .textbox {
+  color: white;
+  font-family: Arial;
+  width: 420px;
+  position: absolute;
+  top: 100px;
+  left: 370px;
+}
+
+#section2 .link-btn {
+  background-color: rgb(49, 68, 88);
+  color: white;
+  font-family: Arial;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  width: 180px;
+  padding: 14px 20px 14px 20px;
+  border-radius: 20px; 
+}
+
+.section3-box {
+  color: rgb(135, 145, 156);
+  font-family: Arial;
+  background-color: white;
+}
+
+#section3 .center {
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#section3 h2 {
+  color: rgb(83, 88, 98);
+}
+
+#section3 a {
+  font-family: Arial;
+  color: rgb(208, 74, 73);
+  text-decoration: none;
+}
+
+.container {
+  width: 1100px;
+  margin: 0 auto;
+  padding: 75px 0;
+  text-align: center;
+}
+
+.col {
+  float: left;
+}
+
+.col-3 {
+  width: 30%;
+}
+
+.col-middle { 
+  margin: 0 5%;
+}
